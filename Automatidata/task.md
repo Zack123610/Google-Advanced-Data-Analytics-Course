@@ -15,3 +15,9 @@ You have received notice that the recently submitted New York City TLC project p
 - Use custom functions to organize the information within the New York City TLC dataset
 - Build a dataframe for the New York City TLC project
 - Create an executive summary for Automatidata
+
+## Course 3 tasks:
+- Load data, explore, and extract the New York City TLC data with Python
+- Use custom functions to organize the information within the New York City TLC dataset
+- Build a dataframe for the New York City TLC project
+- Create an executive summary for Automatidata for a general audience of internal professionals

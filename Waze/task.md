@@ -17,3 +17,10 @@ Your team is in the early stages of their user churn project. Your project propo
 - Identify outliers
 - Create a data visualization
 - Share an executive summary with the Waze data team 
+
+## Course 3 tasks:
+- Clean data
+- Handle outliers 
+- Perform EDA
+- Visualize data
+- Share an executive summary with the Waze data team 

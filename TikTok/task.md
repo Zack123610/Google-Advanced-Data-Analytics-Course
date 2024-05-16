@@ -18,3 +18,11 @@ As a data analyst on TikTok's data team, you'll help by preparing the data neede
 - Gather descriptive statistics
 - Visualize the TikTok data in Python
 - Report to TikTok’s data team through an executive summary
+
+## Course 3 tasks:
+- Imports of relevant packages and TikTok data into Python
+- EDA and cleaning
+- Assess Tableau measures and dimensions
+- Select and build visualization(s) type
+    - Create plots to visualize variables and relationships between variables
+- Share your results with the TikTok team
