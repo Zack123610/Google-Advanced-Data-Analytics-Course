@@ -21,3 +21,8 @@ You have received notice that the recently submitted New York City TLC project p
 - Use custom functions to organize the information within the New York City TLC dataset
 - Build a dataframe for the New York City TLC project
 - Create an executive summary for Automatidata for a general audience of internal professionals
+
+## Course 6 tasks:
+- Build a random forest model from the New York City TLC dataset
+- Create an executive summary for the Automatidata data team before sharing the results with the client
+

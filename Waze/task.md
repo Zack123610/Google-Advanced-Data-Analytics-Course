@@ -24,3 +24,9 @@ Your team is in the early stages of their user churn project. Your project propo
 - Perform EDA
 - Visualize data
 - Share an executive summary with the Waze data team 
+
+## Course 6 tasks:
+- Perform feature engineering 
+- Build the following machine learning models: random forest and XGBoost 
+- Evaluate the models 
+- Share an executive summary with the Waze leadership team
