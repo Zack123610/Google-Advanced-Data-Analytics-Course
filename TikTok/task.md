@@ -27,6 +27,12 @@ As a data analyst on TikTok's data team, you'll help by preparing the data neede
     - Create plots to visualize variables and relationships between variables
 - Share your results with the TikTok team
 
+## Course 4 tasks:
+- Import relevant packages and TikTok data
+- Explore the project data
+- Implement a hypothesis test
+- Communicate insights with stakeholders within TikTok 
+
 ## Course 6 tasks:
 - Import relevant packages and TikTok data
 - Exploratory data analysis
