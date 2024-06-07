@@ -30,6 +30,12 @@ Your team is in the early stages of their user churn project. Your project propo
 - Conduct a two-sample hypothesis test
 - Share an executive summary with the Waze leadership team
 
+## Course 5 tasks:
+- Check model assumptions 
+- Build a binomial logistic regression model 
+- Evaluate the model 
+- Share an executive summary with the Waze leadership team
+
 ## Course 6 tasks:
 - Perform feature engineering 
 - Build the following machine learning models: random forest and XGBoost 

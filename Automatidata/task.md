@@ -27,6 +27,11 @@ You have received notice that the recently submitted New York City TLC project p
 - Conduct a hypothesis test using the New York City TLC dataset
 - Create an executive summary for the Automatidata data team before sharing the results with the client
 
+## Course 5 tasks:
+- Compute descriptive statistics
+- Create a regression model from the New York City TLC dataset
+- Create an executive summary for the Automatidata data team before sharing the results with the client
+
 ## Course 6 tasks:
 - Build a random forest model from the New York City TLC dataset
 - Create an executive summary for the Automatidata data team before sharing the results with the client

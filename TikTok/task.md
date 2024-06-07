@@ -33,6 +33,15 @@ As a data analyst on TikTok's data team, you'll help by preparing the data neede
 - Implement a hypothesis test
 - Communicate insights with stakeholders within TikTok 
 
+## Course 5 tasks:
+- Import relevant packages and TikTok data
+- Exploratory data analysis and check model assumptions
+- Determine the correct modeling approach
+- Build the regression model
+- Finish checking model assumptions
+- Evaluate the model
+- Interpret model results and summarize findings for cross-departmental stakeholders within TikTok
+
 ## Course 6 tasks:
 - Import relevant packages and TikTok data
 - Exploratory data analysis
